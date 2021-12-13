@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**sr95-dnj/sr95-dnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey 👋, I'm Siddiquer Rahman
+I’m an enthusiastic, self-motivated Software developer. I hold a B.Sc Degree in *Computer Science.*
+<br>
+Currently Working as a full stack developer with 2+ years experience building web application.
+<br>
+I have professional experience working with angular, spring boot, hibernate, MySql.
+<br>
+<br>
+<p align='center'>
+<img align='center'  src="https://github-readme-stats.vercel.app/api?username=sr95-dnj">
+<p/>
